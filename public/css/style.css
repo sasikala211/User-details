@@ -1,0 +1,114 @@
+body{
+  background-image: url("/images/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color: white !important;
+  font-family: 'Prata', serif !important;
+}
+.heading{
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 4em;
+    color:orange;
+}
+
+.add-text{
+margin-top: 50px;
+font-size: 20px;
+padding-left:20%;
+font-family: 'Prata', serif;
+font-weight: 500;
+color: white;
+}
+.add-icon{
+  margin-top: -40px;
+  margin-left: 100px;
+}
+.right-border{
+  border-right: 2px solid #e8e58a;
+  height:auto;
+}
+.userlist{
+  list-style-type:none;
+}
+.People{
+  padding-bottom: 31px;
+  font-size: 24px;
+  color:white;
+  font-family: 'Prata', serif;
+}
+.delete-icon{
+color: orange;
+  margin-left: 275px;
+  margin-top: -60px;
+}
+.delete{
+  font-size: 20px;
+}
+hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 96%;
+  background-color:#FFFF00;
+  height: 1px;
+}
+.vl {
+  height: auto;
+  width:10px;
+    border-left: thick solid #e8e58a;
+}
+.modalHeader{
+  margin-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 25px;
+  margin-left: 30%;
+  color:black;
+
+}
+.loginBtn{
+  margin-left: 335px;
+
+  margin-top: 30px;
+  width: 143px;
+
+}
+.modal-body{
+      height: 480px;
+}
+.modal-container {
+  position: relative;
+}
+.modal-container .modal, .modal-container .modal-backdrop {
+  position: absolute;
+}
+.fields{
+  font-family: 'Prata', serif;
+  padding-top: 15px;
+  color:#e66a11;
+  font-weight: strong;
+}
+
+.delete-icon{
+color: orange;
+  margin-left: 275px;
+  margin-top: -60px;
+}
+.delete{
+  font-size: 20px;
+}
+.table{
+  margin-top: 60px;
+}
+.table-title{
+  font-weight:500;
+  color: orange;
+}
+
+.table_none{
+  margin-top: 150px;
+  font-size: 22px;
+  text-align-last: center;
+  margin-left: 100px;
+}
